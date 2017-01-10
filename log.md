@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: Januar 9th 2017 
-##### (delete me or comment me out)
+### Day 1: January 9th 2017 
 
 **Today's Progress**: I started with 20 challenges on Free Code Camp
 
@@ -9,3 +8,10 @@
 
 **Link to work:** https://www.freecodecamp.com/map
 
+### Day 2: January 10th 2017 
+
+**Today's Progress**: I finished the HTML5 & CSS3 subsection (5 hours total) in 2 hours combined
+
+**Thoughts:** I knew HTML was easy but I learned the basics of CSS and I am happy I did this.
+
+**Link to work:** https://www.freecodecamp.com/map
