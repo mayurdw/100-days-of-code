@@ -23,3 +23,34 @@
 **Thoughts:** I always wondered how do people create such beautiful projects, I know now
 
 **Link to work:** https://www.freecodecamp.com/map
+
+### Day 4: January 12th 2017 
+
+**Today's Progress**: I finished jQuery on FreeCodeCamp 
+
+**Thoughts:** It seemed easy enough on the website
+
+**Link to work:** https://www.freecodecamp.com/map
+
+### Day 5: January 13th 2017 
+
+**Today's Progress**: I completed my tribute page with CodePen
+
+**Thoughts:** I thought that FreeCodeCamp will teach everything that is needed, but this project required me to think on my own which I loved.
+
+**Link to work:** https://codepen.io/mayurdw/full/pRbvLO/
+
+### Day 6: January 14th 2017 
+
+**Today's Progress**: I missed today 
+
+**Thoughts:** I was tired. 
+
+### Day 7: January 15th 2017 
+
+**Today's Progress**: I tried to compensate for day 6 with two hours of code
+
+**Thoughts:** It is actually difficult for me to understand how to decorate and structure the page.
+
+**Link to work:** http://codepen.io/mayurdw/full/WRGweJ/
+
