@@ -54,3 +54,20 @@
 
 **Link to work:** http://codepen.io/mayurdw/full/WRGweJ/
 
+### Day 8: January 16th 2017 
+
+**Today's Progress**: I tried to work on designing (CSS) and I got stuck
+
+**Thoughts:** As much as I want to say that FreeCodeCamp does not teach a lot, it allows me to work on my won which I like.
+
+**Link to work:** http://codepen.io/mayurdw/full/WRGweJ/
+
+### Day 9: January 17th 2017 
+
+**Today's Progress**: I tried some different layouts for my portfolio
+
+**Thoughts:** I was going to do some Javascript but if I could do the same without using jQuery or JS then what's the harm?
+
+**Link to work:** http://codepen.io/mayurdw/full/WRGweJ/
+
+
