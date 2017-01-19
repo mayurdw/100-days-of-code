@@ -70,4 +70,15 @@
 
 **Link to work:** http://codepen.io/mayurdw/full/WRGweJ/
 
+### Day 10: January 18th 2017 
+
+**Today's Progress**: Practise C/C++
+
+### Day 11: January 19th 2017 
+
+**Today's Progress**: Submitted my portfolio page on FreeCodeCamp
+
+**Thoughts:** I was tired on working on the same thing. I can make it better and I will
+
+**Link to work:** goo.gl/vBm4uh
 
