@@ -82,3 +82,19 @@
 
 **Link to work:** goo.gl/vBm4uh
 
+### Day 12: January 20th 2017
+
+** Today's Progress:** Finished my portfolio design and layout. 
+
+** Thoughts: ** DId not sleep till I finished it to my satisfaction, there were some small alignment and size issues which I need to clear but otherwise I have my portfolio designed!
+
+** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+
+### Day 13: January 21th 2017
+
+** Today's Progress:** Made font size changes and finally resumed FCC
+
+** Thoughts: ** It was okay to start with FCC again
+
+** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+
