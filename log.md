@@ -98,3 +98,18 @@
 
 ** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
 
+### Day 14: January 22th 2017
+
+** Today's Progress:** Missed today
+
+** Thoughts: ** I didn't plan on missing
+
+** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+
+### Day 15: January 23th 2017
+
+** Today's Progress:** Continued on FCC
+
+** Thoughts: ** I am so tired 
+
+** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
