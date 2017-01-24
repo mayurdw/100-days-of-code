@@ -106,10 +106,10 @@
 
 ** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
 
-### Day 15: January 23th 2017
+### Day 16: January 24th 2017
 
 ** Today's Progress:** Continued on FCC
 
-** Thoughts: ** I am so tired 
+** Thoughts: ** The javascript on the page is just too easy
 
 ** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
