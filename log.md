@@ -113,3 +113,9 @@
 ** Thoughts: ** The javascript on the page is just too easy
 
 ** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+
+### Day 17: January 25th 2017
+
+** Today's Progress:** Continued on FCC
+
+** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
