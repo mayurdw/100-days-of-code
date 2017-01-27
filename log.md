@@ -119,3 +119,19 @@
 ** Today's Progress:** Continued on FCC
 
 ** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+
+
+### Day 18: January 26th 2017
+
+** Today's Progress:** Continued on FCC
+
+** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+
+
+### Day 19: January 27th 2017
+
+** Today's Progress:** Continued on FCC
+
+** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+
+
