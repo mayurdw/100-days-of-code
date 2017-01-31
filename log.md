@@ -33,7 +33,7 @@
 **Link to work:** https://www.freecodecamp.com/map
 
 ### Day 5: January 13th 2017 
-
+ 
 **Today's Progress**: I completed my tribute page with CodePen
 
 **Thoughts:** I thought that FreeCodeCamp will teach everything that is needed, but this project required me to think on my own which I loved.
@@ -84,79 +84,79 @@
 
 ### Day 12: January 20th 2017
 
-** Today's Progress:** Finished my portfolio design and layout. 
+**Today's Progress:** Finished my portfolio design and layout. 
 
-** Thoughts: ** DId not sleep till I finished it to my satisfaction, there were some small alignment and size issues which I need to clear but otherwise I have my portfolio designed!
+**Thoughts:** DId not sleep till I finished it to my satisfaction, there were some small alignment and size issues which I need to clear but otherwise I have my portfolio designed!
 
-** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+**Like to work:** https://codepen.io/mayurdw/full/WRGweJ/
 
 ### Day 13: January 21th 2017
 
-** Today's Progress:** Made font size changes and finally resumed FCC
+**Today's Progress:** Made font size changes and finally resumed FCC
 
-** Thoughts: ** It was okay to start with FCC again
+**Thoughts:** It was okay to start with FCC again
 
-** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+**Like to work:** https://codepen.io/mayurdw/full/WRGweJ/
 
 ### Day 14: January 22th 2017
 
-** Today's Progress:** Missed today
+**Today's Progress:** Missed today
 
-** Thoughts: ** I didn't plan on missing
+**Thoughts:** I didn't plan on missing
 
-** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+**Like to work:** https://codepen.io/mayurdw/full/WRGweJ/
 
 ### Day 16: January 24th 2017
 
-** Today's Progress:** Continued on FCC
+**Today's Progress:** Continued on FCC
 
-** Thoughts: ** The javascript on the page is just too easy
+**Thoughts:** The javascript on the page is just too easy
 
-** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+**Like to work:** https://codepen.io/mayurdw/full/WRGweJ/
 
 ### Day 17: January 25th 2017
 
-** Today's Progress:** Continued on FCC
+**Today's Progress:** Continued on FCC
 
-** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+**Like to work:** https://codepen.io/mayurdw/full/WRGweJ/
 
 
 ### Day 18: January 26th 2017
 
-** Today's Progress:** Continued on FCC
+**Today's Progress:** Continued on FCC
 
-** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+**Like to work:** https://codepen.io/mayurdw/full/WRGweJ/
 
 
 ### Day 19: January 27th 2017
 
-** Today's Progress:** Continued on FCC
+**Today's Progress:** Continued on FCC
 
-** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+**Like to work:** https://codepen.io/mayurdw/full/WRGweJ/
 
 ### Day 20: January 28th 2017
 
-** Today's Progress: ** Continued FCC
+**Today's Progress:** Continued FCC
 
-** Link to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+**Link to work:** https://codepen.io/mayurdw/full/WRGweJ/
 
 ### Day 21: January 29th 2017
 
-** Today's Progress: ** Did a little FCC
+**Today's Progress:** Did a little FCC
 
-** Thoughts: ** I got stuck in the middle of the Javascript challenges.: the lookup table using objects inside an array. I still don't know how to use it or what am I doing wrong. I am going to skip it the challlenge. 
+**Thoughts:** I got stuck in the middle of the Javascript challenges.: the lookup table using objects inside an array. I still don't know how to use it or what am I doing wrong. I am going to skip it the challlenge. 
 
-** Link to work: ** https://www.freecodecamp.com/challenges/profile-lookup
+**Link to work:** https://www.freecodecamp.com/challenges/profile-lookup
 
 ### Day 22: January 30th 2017
 
-** Today's Progress: ** wxWidgets
+**Today's Progress:** wxWidgets
 
-** Thoughts: ** I had to work on wxWidgets as I am using it i my internship and I don't know how to use it. I neede practise and while I was using it I realized that I don't know how to use object oriented language, classes very well.
+**Thoughts:** I had to work on wxWidgets as I am using it i my internship and I don't know how to use it. I neede practise and while I was using it I realized that I don't know how to use object oriented language, classes very well.
 
 ### Day 23: January 31st 2017
 
-** Today's Progress: ** HackerRank C++ classes
+**Today's Progress:** HackerRank C++ classes
 
-** Thoughts: ** As I needed the practise, I worked on some C++ code. 
+**Thoughts:** As I needed the practise, I worked on some C++ code. 
 
