@@ -134,4 +134,29 @@
 
 ** Like to work: ** https://codepen.io/mayurdw/full/WRGweJ/
 
+### Day 20: January 28th 2017
+
+** Today's Progress: ** Continued FCC
+
+** Link to work: ** https://codepen.io/mayurdw/full/WRGweJ/
+
+### Day 21: January 29th 2017
+
+** Today's Progress: ** Did a little FCC
+
+** Thoughts: ** I got stuck in the middle of the Javascript challenges.: the lookup table using objects inside an array. I still don't know how to use it or what am I doing wrong. I am going to skip it the challlenge. 
+
+** Link to work: ** https://www.freecodecamp.com/challenges/profile-lookup
+
+### Day 22: January 30th 2017
+
+** Today's Progress: ** wxWidgets
+
+** Thoughts: ** I had to work on wxWidgets as I am using it i my internship and I don't know how to use it. I neede practise and while I was using it I realized that I don't know how to use object oriented language, classes very well.
+
+### Day 23: January 31st 2017
+
+** Today's Progress: ** HackerRank C++ classes
+
+** Thoughts: ** As I needed the practise, I worked on some C++ code. 
 
