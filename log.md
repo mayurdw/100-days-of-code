@@ -160,3 +160,8 @@
 
 **Thoughts:** As I needed the practise, I worked on some C++ code. 
 
+### Day 24: February 1st 2017
+
+**Today's Progress:** Continued on FCC
+
+**Thoughts:** I need to find some projects, I am getting bored with tutorials
