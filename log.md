@@ -165,3 +165,18 @@
 **Today's Progress:** Continued on FCC
 
 **Thoughts:** I need to find some projects, I am getting bored with tutorials
+
+### Day 25: February 2nd 2017
+
+**Today's Progress:** Missed
+
+### Day 26: February 3rd 2017
+
+**Today's Progress:** Missed
+
+### Day 27: February 4th 2017
+**Today's Progress:** Did some Hackerrank Challenges
+
+### Day 28: February 5th 2017
+
+**Today's Progress:** Continued FCC, on javascript algorithms
