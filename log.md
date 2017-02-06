@@ -175,8 +175,15 @@
 **Today's Progress:** Missed
 
 ### Day 27: February 4th 2017
+
 **Today's Progress:** Did some Hackerrank Challenges
 
 ### Day 28: February 5th 2017
 
 **Today's Progress:** Continued FCC, on javascript algorithms
+
+### Day 29: February 6th 2017
+
+**Today's Progress:** Continued FC
+
+**Thoughts:** I got an idea for a small project that can include my type of excel files and I can easily integrate visual completions. I have to decide which app to use but I am inclined towards Py and Rb. Let's see
