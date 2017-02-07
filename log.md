@@ -187,3 +187,10 @@
 **Today's Progress:** Continued FC
 
 **Thoughts:** I got an idea for a small project that can include my type of excel files and I can easily integrate visual completions. I have to decide which app to use but I am inclined towards Py and Rb. Let's see
+
+### Day 30: February 7th 2017
+
+**Today's Progress:** Did FCC algorithms as well as started on making an UI using wxPython
+
+**Thoughts:** Using Python was always interesting to me and now I am doing just that, my plan is to make an UI with python and Ruby support(back-end?)
+
